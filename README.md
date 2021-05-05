@@ -1,8 +1,6 @@
 
 ## Source Code Archive of iqdb
 
-<br>
-
 ## Archive Update Log
 
 | Update Time | Archive Version | File                                                                 | Source               | Download URL                                   |
